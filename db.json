@@ -1,0 +1,60 @@
+{
+  "players": [
+    {
+      "id": 1,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Alastair",
+      "goals": 5,
+      "description": "Excellent striker."
+    },
+    {
+      "id": 2,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Calvert",
+      "goals": 2,
+      "description": "Excellent midfielder and forward."
+    },
+    {
+      "id": 3,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Oli",
+      "goals": 0,
+      "description": "Great in defence."
+    },
+    {
+      "id": 4,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Taylor",
+      "goals": 0,
+      "description": "Multi player, forwards and defence."
+    },
+    {
+      "id": 5,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Troy",
+      "goals": 2,
+      "description": "Strong in defence."
+    },
+    {
+      "id": 6,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Tyson",
+      "goals": 1,
+      "description": "can play on flanks, fast runner."
+    },
+    {
+      "id": 7,
+      "category": "glenview",
+      "image": "shoe1.jpg",
+      "name": "Jamie",
+      "goals": 3,
+      "description": "Strong forward and great in midfield."
+    }
+  ]
+}
